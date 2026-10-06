@@ -1,7 +1,7 @@
 # Atti Lahcen
 
 Embedded Software Engineer
-
+🎓 [Google Scholar](https://scholar.google.com/citations?user=8YX1hO4AAAAJ&hl=en)
 
 ## Publications
 
