@@ -2,7 +2,6 @@
 
 Embedded Software Engineer
 
-🌐 [Portfolio](https://attidev01.github.io/vcard-personal-portfolio/)
 
 ## Publications
 
