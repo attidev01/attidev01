@@ -1,16 +1,13 @@
-## Hi there 👋
+# Atti Lahcen
 
-<!--
-**attidev01/attidev01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Embedded Software Engineer
 
-Here are some ideas to get you started:
+🌐 [Portfolio](https://attidev01.github.io/vcard-personal-portfolio/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Publications
+
+- **L. Atti**, M. Saber, N. Boubkraoui, M. Dib, H. Ouahi,
+  "An Enhanced IoT-Based Healthcare Monitoring System for Obese Adults,"
+  in *Proc. 5th International Conference on Advances in Communication Technology
+  and Computer Engineering (ICACTCE'26)*, Marrakech, Morocco, 22–23 Oct 2026.
+  Lecture Notes in Networks and Systems (LNNS), Springer. *Accepted, to appear.*
